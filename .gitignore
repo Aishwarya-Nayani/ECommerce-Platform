@@ -1,0 +1,13 @@
+# React / Node
+client/node_modules/
+client/dist/
+
+# .NET / Visual Studio
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Environment & logs
+*.log
